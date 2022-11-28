@@ -10,5 +10,4 @@ public enum MacroNutrient {
     MacroNutrient(int calories) {
         this.calories = calories;
     }
-
 }
